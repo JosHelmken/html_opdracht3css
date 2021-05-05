@@ -1,0 +1,41 @@
+body {
+  color: #334455;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  background-color: #d7d5e0;
+  padding: 40px 80px;
+}
+
+.black-border {
+  border: 5px solid #000;
+}
+
+#green-background {
+  background-color: rgb(125, 111, 175);
+  color: #fff;
+  padding: 10px 5px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  padding: 30px;
+  margin: 20px 0px;
+}
+
+a {
+  font-size: 22px;
+  text-decoration: none;
+  border-bottom: 4px solid #334455;
+}
+
+.pacifico {
+  font-family: "pacifico", "cursive";
+  font-size: 4em;
+}
+
+img {
+  height: 200px;
+}
